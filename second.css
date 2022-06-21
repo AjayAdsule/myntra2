@@ -1,0 +1,92 @@
+
+/* header section */
+#right{
+    margin-right: 1%;
+    
+}
+#right>li>a{
+    color: black;
+}
+#brandlogo>img{
+    height: 23px;
+}
+#cot>li>a{
+    color: black;
+}
+/* product css */
+.row{
+    margin-bottom:20px ;
+}
+
+#cards>img{
+    height: 235px;
+    width: 100%;
+}
+#body>h5{
+    font-weight: bold;
+    margin-left: 2px;
+    margin-bottom: 1%;
+}
+#body>p{
+    margin-bottom: 1%;
+}
+#price{
+    font-weight: bold;
+   
+}
+#price>del{
+    font-weight: normal;
+}
+/* footer section */
+#subn{
+    font-weight: bold;
+    
+
+}
+#firstlist{
+    margin-top: 30%;
+}
+#sublist>a{
+    
+    font-weight: bold;
+    color: black;
+}
+#sublist{
+    margin-bottom: 8%;
+}
+
+#subm{
+    margin-bottom: 10%;
+    font-weight: bold;
+    color: black;
+    margin-top: 20%;
+}
+#suba{
+    margin-bottom: 10%;
+    font-weight: bold;
+    color: black;
+    margin-top: 8%;
+}
+#fotimg>img{
+    height: 37px;
+    width:28%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+#fotimg{
+    margin-left:11%;
+}
+#subhead{
+    margin-left: 12%;
+    font-weight: bold;
+    font-size: 12px;
+}
+#social{
+    margin-left: 11%;
+    margin-top: 3%;
+}
+#social>img{
+    height: 23px;
+    width:8%;
+}
+

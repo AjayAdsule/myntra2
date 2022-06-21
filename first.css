@@ -1,0 +1,222 @@
+/* header section */
+#right{
+    margin-right: 1%;
+    
+}
+#right>li>a{
+    color: black;
+}
+#brandlogo>img{
+    height: 23px;
+}
+#cot>li>a{
+    color: black;
+}
+#slider{
+    background-color: #fff;
+}
+#row1>h3{
+    margin-left: 2%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+#card1>img{
+    height: 140px;
+    width: 160px;
+}
+#row2{
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+#first>img{
+    height: 150px;
+    width: 133%;
+
+}
+ #first>img{
+    height: 150px;
+    width: 133%;
+    
+
+} 
+#second>img{
+    height: 150px;
+    width: 133%;
+    
+
+}
+#third>img{
+    height: 150px;
+    width: 133%;
+    
+
+}
+#fourth>img{
+    height: 150px;
+    width: 133%;
+    
+
+}
+#fifth>img{
+    height: 150px;
+    width: 133%;
+    
+
+}
+#sixth>img{
+    height: 150px;
+    width: 133%;
+    
+
+}#seven>img{
+    height: 150px;
+    width: 133%;
+    
+
+}#eight>img{
+    height: 150px;
+    width: 133%;
+    
+
+}
+#nine>img{
+    height: 150px;
+    width: 133%;
+    
+
+}
+#ten>img{
+    height: 150px;
+    width: 133%;
+}
+#eleven>img{
+    height: 150px;
+    width: 133%;
+
+}
+
+#row3>h3{    
+    margin-left: 8%;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.bar{
+    margin-left: 3%;
+}
+.bar>img{
+    width:115%;
+    height: 170px;
+    
+}
+#row4{
+    margin-left: 1%;
+    margin-top: 2%;
+}
+#row5{
+    margin-left: 1%;
+    margin-bottom: 3%;
+    
+}
+#row6>h3{
+    margin-left: 5%;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#row7{
+    margin-bottom: 3%;
+}
+
+.imm2{
+    width: 265px;
+    height: 200px;
+    
+}
+#row8>h3{
+    margin-left: 2%;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    
+}
+#row9{
+    margin-left: 1%;
+    background-color: #fff;
+}
+.cat{
+    margin-left: 3%;
+}
+.cat>img{
+    height: 200px;
+    width: 180px;
+    
+}
+#row10{
+    margin-left: 1%;
+}
+#row11{
+    margin-left: 1%;
+    
+}
+
+/* footer section  */
+#subn{
+    font-weight: bold;
+    
+
+}
+#firstlist{
+    margin-top: 30%;
+}
+#sublist>a{
+    
+    font-weight: bold;
+    color: black;
+}
+#sublist{
+    margin-bottom: 8%;
+}
+
+#subm{
+    margin-bottom: 10%;
+    font-weight: bold;
+    color: black;
+    margin-top: 20%;
+}
+#suba{
+    margin-bottom: 10%;
+    font-weight: bold;
+    color: black;
+    margin-top: 8%;
+}
+#fotimg>img{
+    height: 37px;
+    width:28%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+#fotimg{
+    margin-left:11%;
+}
+#subhead{
+    margin-left: 12%;
+    font-weight: bold;
+    font-size: 12px;
+}
+#social{
+    margin-left: 11%;
+    margin-top: 3%;
+}
+#social>img{
+    height: 23px;
+    width:8%;
+}
+#coupon{
+    height: 200px;
+    width: 400px;
+    /* background-color: grey; */
+    z-index: 100;
+    margin: auto;
+    visibility: hidden;
+}
